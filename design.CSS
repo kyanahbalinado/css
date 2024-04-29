@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia, serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.banner {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#red-flags {
+    background-color: #ff6961;
+    color: #8B0000;
+    border: 4px double #d9534f;
+}
+
+#green-flags {
+    background-color: #77dd77;
+    color: #013220;
+    border: 4px double #5cb85c;
+}
+
+h2 {
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 5px 0;
+    font-style: italic;
+}
